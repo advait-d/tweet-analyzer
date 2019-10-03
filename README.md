@@ -7,10 +7,12 @@ Approach:
 2.	Data was indexed on Solr.
 3.	GUI provides an elaborate form for user to select specific search parameters. 
 Result generated involved multiple analysis – 
+
 A. Sentiment analysis
 B. Distribution of data based on city and topic
 C. Wordcloud 
 D. Trending hashtags along with the display of filtered tweet data.
+
 Directory structure for tweet_analyzer:
 •	Static directory contains css, fonts, img, js files.
 •	Templates directory contains HTML files.

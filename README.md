@@ -1,11 +1,7 @@
-# ms_projects
-Masters Fall'18 - Fall'19 Projects (Information Retrieval)
+# Tweet Analyzer
 
-Current repository contains the following projects  –
-1. Tweet Analyzer
-
-Project – Tweet Analyzer (Python project)
-Objective: Complete Search & Analytics Solution based on dissecting Twitter data
+Project – Tweet Analyzer
+Objective: A Complete Search & Analytics Solution based on dissecting Twitter data
 Approach: 
 1.	Data collected from Twitter using developer account.
 2.	Data was indexed on Solr.
